@@ -86,5 +86,5 @@ var _ChatService_serviceDesc = grpc.ServiceDesc{
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
-	Metadata: "Zabawa_z_gRPC/pb/chat.proto",
+	Metadata: "Podejście_Drugie/chat.proto",
 }
